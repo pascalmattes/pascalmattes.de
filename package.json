@@ -6,9 +6,19 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
+    "@nuxtjs/eslint-config-typescript": "^8.0.0",
     "autoprefixer": "^10.4.0",
+    "eslint": "^8.4.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-nuxt": "^3.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-tailwind": "^0.2.1",
+    "eslint-plugin-vue": "^8.2.0",
     "nuxt3": "latest",
     "postcss": "^8.4.4",
-    "tailwindcss": "^2.2.19"
+    "prettier": "^2.5.1",
+    "prettier-plugin-tailwind": "^2.2.12",
+    "tailwindcss": "^3.0.0",
+    "typescript": "^4.5.4"
   }
 }
