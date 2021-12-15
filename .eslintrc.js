@@ -9,7 +9,7 @@ module.exports = {
     'plugin:nuxt/recommended',
     'plugin:prettier/recommended',
     'plugin:tailwind/recommended',
-    'prettier',
+    'prettier'
   ],
   parserOptions: {
     ecmaVersion: 2021
@@ -20,6 +20,7 @@ module.exports = {
     'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'warn',
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     'vue/valid-v-slot': 'off',
+    'vue/multi-word-component-names': 'off',
     'consistent-return': 'error',
     '@typescript-eslint/no-inferrable-types': 'off',
     '@typescript-eslint/explicit-function-return-type': [
@@ -43,5 +44,6 @@ module.exports = {
         variableDeclaration: true
       }
     ],
+    'prettier/prettier': 'error'
   }
 };
