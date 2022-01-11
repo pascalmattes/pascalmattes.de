@@ -6629,10 +6629,10 @@ type-fest@^1.4.0:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-1.4.0.tgz#e9fb813fe3bf1744ec359d55d1affefa76f14be1"
   integrity sha512-yGSza74xk0UG8k+pLh5oeoYirvIiWo5t0/o3zHHAO2tRDiZcxWP7fywNlXhqb6/r6sWvwi+RsyQMWhVLe4BVuA==
 
-typeit@^8.0.8:
-  version "8.0.8"
-  resolved "https://registry.yarnpkg.com/typeit/-/typeit-8.0.8.tgz#c0b07f3ddb567d35945e711c37376fd4d61b34bb"
-  integrity sha512-zjFOrFMJfMFiCKVExlOXxaKd7SYrRnu5VaszZ3BnBeymwfAynSh+xnbvbcxE2UFoqdfnygy8EX46HYsngovUnQ==
+typeit@^8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/typeit/-/typeit-8.2.0.tgz#107622496e8ca8c1814853a31d3ee521a829a014"
+  integrity sha512-RGF5c8Y55taBcyidamJwT3jYYNTwK5btdl0pWr7iKAc4PN8SnecxHnohjmYZwn3WXVozMiX/kOojAGuAE82Ijw==
 
 typescript@^4.5.4:
   version "4.5.4"
