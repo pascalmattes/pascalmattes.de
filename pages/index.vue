@@ -77,17 +77,19 @@ import { defineComponent } from 'vue';
 import TypeIt from 'typeit';
 
 export default defineComponent({
-  mounted(): void {
-    new TypeIt('#typeit', {
-      speed: 50
-    })
-      .type('Hallo 👋', { delay: 500 })
-      .break()
-      .type('Ich bin <span class="text-zinc-500">Pascal</span>')
-      .type(
-        ' und versuche die Welt durch <a href="https://github.com/pascalmtts" class="underline text-zinc-500 decoration-zinc-500 decoration-4 underline-offset-4">Software</a> besser zu machen.'
-      )
-      .go();
+  setup(): void {
+    onMounted((): void => {
+      new TypeIt('#typeit', {
+        speed: 50
+      })
+        .type('Hallo 👋', { delay: 500 })
+        .break()
+        .type('Ich bin <span class="text-zinc-500">Pascal</span>')
+        .type(
+          ' und versuche die Welt durch <a href="https://github.com/pascalmtts" class="underline text-zinc-500 decoration-zinc-500 decoration-4 underline-offset-4">Software</a> besser zu machen.'
+        )
+        .go();
+    });
   }
 });
 </script>
