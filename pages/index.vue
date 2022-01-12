@@ -41,28 +41,28 @@
       <div class="flex flex-col items-center w-full md:w-1/2">
         <a
           href="mailto:me@pascalmattes.de"
-          class="flex items-center justify-center w-full max-w-sm py-2 mb-6 text-lg font-semibold bg-indigo-500 rounded-lg shadow-lg md:w-56 shadow-indigo-500/40"
+          class="flex items-center justify-center w-full max-w-sm py-2 mb-6 text-lg font-semibold transition-all rounded-lg shadow-lg bg-gradient-to-r from-indigo-500 to-blue-500 md:w-56 shadow-indigo-500/40 hover:scale-105"
         >
           <span class="pr-4 text-lg icon-envelope-letter"></span>
           <span>Mail</span>
         </a>
         <a
           href="https://twitter.com/pascalmtts"
-          class="flex items-center justify-center w-full max-w-sm py-2 mb-6 text-lg font-semibold border rounded-lg md:w-56"
+          class="flex items-center justify-center w-full max-w-sm py-2 mb-6 text-lg font-semibold transition-colors border rounded-lg md:w-56 hover:bg-white hover:text-zinc-900"
         >
           <span class="pr-4 icon-social-twitter"></span>
           <span>Twitter</span>
         </a>
         <a
           href="https://instagram.com/pascalmtts"
-          class="flex items-center justify-center w-full max-w-sm py-2 mb-6 text-lg font-semibold border rounded-lg md:w-56"
+          class="flex items-center justify-center w-full max-w-sm py-2 mb-6 text-lg font-semibold transition-colors border rounded-lg md:w-56 hover:bg-white hover:text-zinc-900"
         >
           <span class="pr-4 icon-social-instagram"></span>
           <span>Instagram</span>
         </a>
         <a
           href="https://linkedin.com/in/pascalmtts"
-          class="flex items-center justify-center w-full max-w-sm py-2 mb-6 text-lg font-semibold border rounded-lg md:w-56"
+          class="flex items-center justify-center w-full max-w-sm py-2 mb-6 text-lg font-semibold transition-colors border rounded-lg md:w-56 hover:bg-white hover:text-zinc-900"
         >
           <span class="pr-4 icon-social-linkedin"></span>
           <span>LinkedIn</span>
