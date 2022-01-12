@@ -6,6 +6,10 @@
   </div>
 </template>
 
-<script lang="ts" setup>
+<script lang="ts">
 import Logo from '~/assets/img/logo.svg?component';
+
+export default {
+  components: { Logo }
+};
 </script>
