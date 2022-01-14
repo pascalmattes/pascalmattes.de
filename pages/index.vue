@@ -6,7 +6,9 @@
       <div
         class="relative flex flex-col items-center w-full h-full max-w-screen-xl md:flex-row"
       >
-        <div class="max-w-sm mb-8 lg:max-w-lg md:mb-0">
+        <div
+          class="flex flex-col items-stretch w-full max-w-sm mb-8 lg:max-w-lg md:mb-0"
+        >
           <h1
             id="typeit"
             class="text-4xl text-zinc-900 md:text-5xl lg:text-6xl min-h-[200px] md:min-h-0"
