@@ -16,7 +16,7 @@
         </div>
         <img
           class="w-[22rem] lg:w-[28rem] md:absolute md:bottom-0 md:right-0"
-          src="~/assets/img/pascalmattes-img.webp"
+          src="~/public/img/pascalmattes-img.webp"
           alt="Pascal Mattes"
         />
       </div>
