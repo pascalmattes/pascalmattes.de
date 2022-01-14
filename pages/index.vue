@@ -22,7 +22,7 @@
       </div>
     </div>
     <div
-      class="flex flex-col px-8 py-24 text-white md:flex-row lg:py-48 bg-zinc-900 md:px-12 lg:px-20 xl:px-48"
+      class="flex flex-col px-8 py-24 text-white md:flex-row lg:py-48 bg-gradient-to-b from-slate-900 to-zinc-900 md:px-12 lg:px-20 xl:px-48"
     >
       <div
         class="flex flex-col items-center justify-center w-full pb-12 md:pb-0 md:w-1/2"
