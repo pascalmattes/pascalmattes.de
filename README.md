@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# pascalmattes.de
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+This project contains my personal website which can be found [here](https://pascalmattes.de).
 
 ## Setup
 
@@ -25,5 +25,3 @@ Build the application for production:
 ```bash
 yarn build
 ```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
