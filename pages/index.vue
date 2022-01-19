@@ -84,8 +84,10 @@ export default defineComponent({
   setup(): void {
     onMounted((): void => {
       setTimeout((): void => {
+        document.getElementById('typeit').innerHTML = '';
         new TypeIt('#typeit', {
-          speed: 50
+          speed: 50,
+          waitUntilVisible: true
         })
           .type('Hallo 👋', { delay: 500 })
           .break()
