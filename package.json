@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "simple-line-icons": "^2.5.5",
-    "typeit": "^8.2.0"
+    "typeit": "^8.3.0"
   }
 }
