@@ -77,7 +77,6 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue';
 import TypeIt from 'typeit';
 
 export default defineComponent({
