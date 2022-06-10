@@ -2558,10 +2558,10 @@ escape-string-regexp@^5.0.0:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-5.0.0.tgz#4683126b500b61762f2dbebace1806e8be31b1c8"
   integrity sha512-/veY75JbMK4j1yjvuUxuVsiS/hr/4iHs9FTT6cgTexxdE0Ly/glccBAkloH/DofkjRbZU3bnoj38mOmhkZ0lHw==
 
-eslint-config-prettier@^8.4.0:
-  version "8.4.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.4.0.tgz#8e6d17c7436649e98c4c2189868562921ef563de"
-  integrity sha512-CFotdUcMY18nGRo5KGsnNxpznzhkopOcOo0InID+sgQssPrzjvsyKZPvOgymTFeHrFuC3Tzdf2YndhXtULK9Iw==
+eslint-config-prettier@^8.5.0:
+  version "8.5.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
+  integrity sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==
 
 eslint-config-standard@^16.0.3:
   version "16.0.3"
@@ -6299,10 +6299,10 @@ type-fest@^2.11.2:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-2.11.2.tgz#5534a919858bc517492cd3a53a673835a76d2e71"
   integrity sha512-reW2Y2Mpn0QNA/5fvtm5doROLwDPu2zOm5RtY7xQQS05Q7xgC8MOZ3yPNaP9m/s/sNjjFQtHo7VCNqYW2iI+Ig==
 
-typeit@^8.3.1:
-  version "8.3.1"
-  resolved "https://registry.yarnpkg.com/typeit/-/typeit-8.3.1.tgz#da0997582a21e0bc4c6961312d9aae5698a60152"
-  integrity sha512-t2gtMScQ+yxIP9FyzvH8oVCXlVYLbmXCdNUN1CPsWFVGDU/zn6aevRarsm1+lT9+ZHfwl026bkk+HMpvytvFUQ==
+typeit@^8.5.5:
+  version "8.5.5"
+  resolved "https://registry.yarnpkg.com/typeit/-/typeit-8.5.5.tgz#cff49ea90a40238d4b6f00521045b8bffac1bb18"
+  integrity sha512-yVreCu/Wd5Qg/OgWWlf6i8udEtGeFsbPXY6zTdud/1eA4rpkjQvmaTSFYxj7R3S3fJ8uZhwcEPg9/qn/lZvuvA==
 
 typescript@^4.6.3:
   version "4.6.3"
