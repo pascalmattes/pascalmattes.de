@@ -2640,6 +2640,18 @@ eslint-plugin-vue@^8.1.1:
     semver "^7.3.5"
     vue-eslint-parser "^8.0.1"
 
+eslint-plugin-vue@^8.5.0:
+  version "8.7.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-vue/-/eslint-plugin-vue-8.7.1.tgz#f13c53547a0c9d64588a675cc5ecc6ccaf63703f"
+  integrity sha512-28sbtm4l4cOzoO1LtzQPxfxhQABararUb1JtqusQqObJpWX2e/gmVyeYVfepizPFne0Q5cILkYGiBoV36L12Wg==
+  dependencies:
+    eslint-utils "^3.0.0"
+    natural-compare "^1.4.0"
+    nth-check "^2.0.1"
+    postcss-selector-parser "^6.0.9"
+    semver "^7.3.5"
+    vue-eslint-parser "^8.0.1"
+
 eslint-plugin-vue@^9.1.0:
   version "9.1.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-vue/-/eslint-plugin-vue-9.1.0.tgz#b528941325e26a24bc5d5c5030c0a8996c36659c"
@@ -6227,10 +6239,10 @@ type-fest@^2.11.2:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-2.11.2.tgz#5534a919858bc517492cd3a53a673835a76d2e71"
   integrity sha512-reW2Y2Mpn0QNA/5fvtm5doROLwDPu2zOm5RtY7xQQS05Q7xgC8MOZ3yPNaP9m/s/sNjjFQtHo7VCNqYW2iI+Ig==
 
-typeit@^8.3.1:
-  version "8.3.1"
-  resolved "https://registry.yarnpkg.com/typeit/-/typeit-8.3.1.tgz#da0997582a21e0bc4c6961312d9aae5698a60152"
-  integrity sha512-t2gtMScQ+yxIP9FyzvH8oVCXlVYLbmXCdNUN1CPsWFVGDU/zn6aevRarsm1+lT9+ZHfwl026bkk+HMpvytvFUQ==
+typeit@^8.6.0:
+  version "8.6.0"
+  resolved "https://registry.yarnpkg.com/typeit/-/typeit-8.6.0.tgz#36bfdffbdd691b5bb9fa0f2f9299ec57977fc522"
+  integrity sha512-1LPXj9UZWNpl7KWwIZ9yknp2oxNtIyhy4p5hHMQac0O1nT/+0q+iu5PeNiyes3AwYkc3xV94hRX7XYws24HwqA==
 
 typescript@^4.6.3:
   version "4.6.3"
