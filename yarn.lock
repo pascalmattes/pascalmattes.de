@@ -6226,10 +6226,10 @@ typeit@^8.6.0:
   resolved "https://registry.yarnpkg.com/typeit/-/typeit-8.6.0.tgz#36bfdffbdd691b5bb9fa0f2f9299ec57977fc522"
   integrity sha512-1LPXj9UZWNpl7KWwIZ9yknp2oxNtIyhy4p5hHMQac0O1nT/+0q+iu5PeNiyes3AwYkc3xV94hRX7XYws24HwqA==
 
-typescript@^4.6.3:
-  version "4.6.3"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.6.3.tgz#eefeafa6afdd31d725584c67a0eaba80f6fc6c6c"
-  integrity sha512-yNIatDa5iaofVozS/uQJEl3JRWLKKGJKh6Yaiv0GLGSuhpFJe7P3SbHZ8/yjAHRQwKRoA6YZqlfjXWmVzoVSMw==
+typescript@^4.9.4:
+  version "4.9.4"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.4.tgz#a2a3d2756c079abda241d75f149df9d561091e78"
+  integrity sha512-Uz+dTXYzxXXbsFpM86Wh3dKCxrQqUcVMxwU54orwlJjOpO3ao8L7j5lH+dWfTwgCwIuM9GQ2kvVotzYJMXTBZg==
 
 ufo@^0.7.11, ufo@^0.7.9:
   version "0.7.11"
